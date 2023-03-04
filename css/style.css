@@ -2,7 +2,7 @@
         max-width: 1440px;
         width: 100%;
         margin: 0 auto;
-        background: rgba(242, 245, 248, 1);
+        background-color: rgba(242, 245, 248, 1);
 }
 header {
     width: 100%;
