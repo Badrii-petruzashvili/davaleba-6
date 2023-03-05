@@ -35,19 +35,24 @@ h1 {
     margin-bottom: 60px;
 }
 
-.six_card {
+.sixcard {
     width: 100%;
-    display: flex;
+    /* border: solid 2px red; */
     justify-content: space-between;
-    height: 850px;
+    display: flex;
+    flex-wrap: wrap;
+    height: 831px;
 }
 
 .cards {
-    width: 30px;
+    width: 30%;
+
 }
 
+
+
 .cards img {
-    width: 91%;
+    width: 90%;
     height: 188px;
 }
 
