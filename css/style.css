@@ -13,10 +13,6 @@ header {
     justify-content: space-between;
 }
 
-.logo {
-    margin-right: 98px;
-}
-
 ul {
     gap: 91px;
     display: flex;
