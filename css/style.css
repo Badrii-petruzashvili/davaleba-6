@@ -40,7 +40,6 @@ h1 {
     display: flex;
     justify-content: space-between;
     height: 850px;
-    flex-wrap: wrap;
 }
 
 .cards {
