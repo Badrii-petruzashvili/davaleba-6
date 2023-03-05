@@ -25,6 +25,9 @@ ul {
 
 section {
     width: 90%;
+    /* display: flex; */
+    /* padding: 98px 50px 96px 97px; */
+    padding-left: 98px;
 }
 
 h1 {
