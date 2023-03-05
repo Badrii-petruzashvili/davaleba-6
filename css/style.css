@@ -35,4 +35,32 @@ h1 {
     margin-bottom: 60px;
 }
 
+.six_card {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    height: 850px;
+    flex-wrap: wrap;
+}
+
+.cards {
+    width: 30px;
+}
+
+.cards img {
+    width: 91%;
+    height: 188px;
+}
+
+p {
+    width: 90%;
+    height: 81px;
+    font-weight: 500;
+    font-size: 32px;
+    color: #133B3A;
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 33px;
+}
+
+
 
