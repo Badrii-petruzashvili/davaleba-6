@@ -29,7 +29,9 @@ section {
 
 h1 {
     color: rgba(34, 88, 87, 1);
+    font-weight: 700;
     font-size: 32px;
-   padding: 52 0 68 98px;
+    /* display: flex; */
+    margin-bottom: 60px;
 }
 
