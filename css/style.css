@@ -1,3 +1,4 @@
+  /*CONTEINER*/
 .conteiner {
     max-width: 1440px;
     width: 100%;
@@ -5,6 +6,7 @@
     background-color: #F2F5F8;
 }
 
+   /*header*/
 header {
     width: 100%;
     align-items: center;
@@ -23,6 +25,7 @@ ul {
     font-family: 'Ubuntu', sans-serif;
 }
 
+   /*section*/
 section {
     width: 90%;
     padding-left: 98px;
@@ -60,10 +63,33 @@ p {
     width: 90%;
     font-weight: 500;
     font-size: 32px;
-    color: #133B3A;
+    background: rgba(34, 88, 87, 1);
     font-family: 'Ubuntu', sans-serif;
     
 }
+
+  /*footer*/
+footer {
+    width: 100%;
+   display: flex;
+   background-color: rgba(117, 139, 253, 1);
+   align-items: center;
+} 
+
+.search {
+    display: flex; 
+    gap: 91px;
+    font-size: 50px;
+    width: 440px;
+    height: 64px;
+    background-color: #F2F5F8;
+    border-radius: 10px;
+    justify-content: flex-end;
+    align-items: center;
+    color: #9747FF;
+}
+
+
 
 
 
