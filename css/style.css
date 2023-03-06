@@ -81,6 +81,7 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 44px 98px 79px 98px;
 }
 
 .search {
@@ -93,5 +94,5 @@ footer {
     border-radius: 10px;
     justify-content: flex-end;
     align-items: center;
-     background-color: #F2F5F8;
+    background-color: #F2F5F8;
 }
